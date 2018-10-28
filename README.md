@@ -41,7 +41,9 @@ LIENS :
 ## VIDÉOS DIDACTIQUES
  1. Ungersheim (Modèle de ville en transition) <https://www.youtube.com/watch?v=QbOe0Q-Lg4k&feature=youtu.be>
  2. Le Bec Helloin (Permaculture) <https://www.youtube.com/watch?v=HfNYyNNlBfc>
- 3. Stockage d'énergie low tech <https://www.youtube.com/watch?v=N2u6EDwumdQ>
+ 3. Stockage d'énergie low tech -1- <https://www.youtube.com/watch?v=N2u6EDwumdQ>
+ 4. Stockage d'énergie low tech -2- <https://www.youtube.com/watch?v=F2Qy3hl7O5k>
+ 5. Stockage d'énergie low tech -3- <https://www.ted.com/talks/donald_sadoway_the_missing_link_to_renewable_energy?language=fr>
 
 
 ## MOTS-CLÉS:
