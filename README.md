@@ -49,7 +49,7 @@ LIENS :
  8. Pic du pétrole (Jean-Marc Jancovici) <https://www.youtube.com/watch?v=Fp6aJZQldFs>
  8. Pic des métaux (Philippe Bihouix) <https://www.youtube.com/watch?v=Bx9S8gvNKkA>
  10. Appel pour la planète (Aurélien Barrau) : <https://www.youtube.com/watch?v=XO4q9oVrWWw>
- 11. Villes en transition comme projet social (Débat Médiapart) <https://www.youtube.com/watch?v=IQXzB5R4De0>
+ 11. Villes en transition comme projet social (Débat Médiapart) : <https://www.youtube.com/watch?v=IQXzB5R4De0>
 
 
 
