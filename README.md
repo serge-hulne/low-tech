@@ -21,7 +21,7 @@ LIENS :
 1. <http://www.lycee-ferry-versailles.fr/si-new/2_4_stockage/cours_stockage_energie_v5.pdf>
 2. <http://cm1cm2.ceyreste.free.fr/formes.html>
 
-## I) MÉTHODES DE STOCKAGE D'ÉNERGIE TRAITÉS PAR LES ARTICLES AUXQUELS RÉFÈRENT CES LIENS
+## I) MÉTHODES DE STOCKAGE D'ÉNERGIE AUXQUELS RÉFÈRENT CES LIENS
 
 1. ÉNERGIE POTENTIELLE
   - UTILISER LA GRAVITÉ.
