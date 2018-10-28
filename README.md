@@ -55,6 +55,7 @@ Les tutos de Low tech lab (en français) : <http://lowtechlab.org/wiki/Explore?p
  11. Villes en transition comme projet social (Débat Médiapart) : <https://www.youtube.com/watch?v=IQXzB5R4De0>
  12. Ville en transition, exemple britannique (Rob Hopkins) : <https://www.youtube.com/watch?v=w14gmW6nm1I>
  13. Low-tech tour France - Bande Annonce / Teaser <https://www.youtube.com/watch?v=FwHLbaQgcmw>
+ 14. Production d'hydrogène combinée à l'usage de batteries (T.U Delft) <https://www.tudelft.nl/en/2016/tu-delft/new-tu-delft-battolyser-technology-combines-electricity-storage-and-hydrogen-production-in-a-single-system-enabling-electricity-to-be-stored-efficiently-and-affordably/>
 
 
 ## PROJETS APPARENTÉS:
