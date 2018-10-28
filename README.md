@@ -38,7 +38,7 @@ LIENS :
 
 
 
-## VIDÉOS DIDACTIQUES
+## VIDÉOS DIDACTIQUES:
  1. Ungersheim (Modèle de ville en transition) <https://www.youtube.com/watch?v=QbOe0Q-Lg4k&feature=youtu.be>
  2. Le Bec Helloin (Permaculture) <https://www.youtube.com/watch?v=HfNYyNNlBfc>
  3. Stockage d'énergie low tech -1- <https://www.youtube.com/watch?v=N2u6EDwumdQ>
