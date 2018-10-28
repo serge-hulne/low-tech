@@ -50,6 +50,7 @@ LIENS :
  8. Pic des métaux (Philippe Bihouix) <https://www.youtube.com/watch?v=Bx9S8gvNKkA>
  10. Appel pour la planète (Aurélien Barrau) : <https://www.youtube.com/watch?v=XO4q9oVrWWw>
  11. Villes en transition comme projet social (Débat Médiapart) : <https://www.youtube.com/watch?v=IQXzB5R4De0>
+ 12. Ville en transition, exemple britannique (Rob Hopkins) : <https://www.youtube.com/watch?v=w14gmW6nm1I>
 
 
 
