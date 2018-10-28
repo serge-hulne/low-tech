@@ -44,6 +44,11 @@ LIENS :
  3. Stockage d'énergie low tech -1- <https://www.youtube.com/watch?v=N2u6EDwumdQ>
  4. Stockage d'énergie low tech -2- <https://www.youtube.com/watch?v=F2Qy3hl7O5k>
  5. Stockage d'énergie low tech -3- <https://www.ted.com/talks/donald_sadoway_the_missing_link_to_renewable_energy?language=fr>
+ 6. Copllapsologie (Pablo Servigne) <https://www.youtube.com/watch?v=5xziAeW7l6w>
+ 7. Pic du pétrole (Jean Marc jancovici) <https://www.youtube.com/watch?v=Fp6aJZQldFs>
+ 8. Pic des métaux (Philippe Bihouix) <https://www.youtube.com/watch?v=Bx9S8gvNKkA>
+ 9. Appel pour la planète (Aurélien Barrau) : <https://www.youtube.com/watch?v=XO4q9oVrWWw>
+
 
 
 ## MOTS-CLÉS:
