@@ -53,6 +53,14 @@ LIENS :
  12. Ville en transition, exemple britannique (Rob Hopkins) : <https://www.youtube.com/watch?v=w14gmW6nm1I>
 
 
+## PROJETS APPARENTÉS:
+1. <http://www.institutmomentum.org/>
+2. <https://www.lowtechmagazine.com/>
+3.  <https://jancovici.com/transition-energetique/renouvelables/est-ce-facile-de-stocker-lenergie/>
+4. <http://crapaud-fou.org/>
+5. <https://transitionnetwork.org/stories/ungersheim-village-transition-france/>
+6. <https://transitionnetwork.org>
+
 
 ## MOTS-CLÉS:
 - PERMACULTURE, EAU,  ECOLOGIE, BIO, AGRICULTURE BIOLOGIQUE, ELECTRICITÉ, ENERGIE, PRODUCTION, STOCKAGE, APRÈS-PÉTROLE, POST-INDUSTRIEL, COLLAPSE, COLLAPSOLOGIE, EFFONDREMENT, TRANSITION, TRANSTION ÉNERGÉTIQUE, TRANSITION ECOLOGIQUE, VILLES EN TRANSITON, RENOUVELABLE, SOUTENABLE, DURABLE, PIC PÉTROLE, PIC MÉTAUX, ÉNERGIE SOLAIRE, ÉNERGIE ÉOLIENNE, ÉNERGIE HYDRAULIQUE, ÉNERGIE GÉOTHERMIQUE.
