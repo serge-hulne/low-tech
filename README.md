@@ -51,6 +51,7 @@ LIENS :
  10. Appel pour la planète (Aurélien Barrau) : <https://www.youtube.com/watch?v=XO4q9oVrWWw>
  11. Villes en transition comme projet social (Débat Médiapart) : <https://www.youtube.com/watch?v=IQXzB5R4De0>
  12. Ville en transition, exemple britannique (Rob Hopkins) : <https://www.youtube.com/watch?v=w14gmW6nm1I>
+ 13. Low-tech tour France - Bande Annonce / Teaser <https://www.youtube.com/watch?v=FwHLbaQgcmw>
 
 
 ## PROJETS APPARENTÉS:
@@ -60,6 +61,7 @@ LIENS :
 4. <http://crapaud-fou.org/>
 5. <https://transitionnetwork.org/stories/ungersheim-village-transition-france/>
 6. <https://transitionnetwork.org>
+7. <http://lowtechlab.org/wiki/Accueil#>
 
 
 ## MOTS-CLÉS:
