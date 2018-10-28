@@ -40,7 +40,7 @@ LIENS :
 
 ## VIDÉOS DIDACTIQUES:
  1. Ungersheim (Modèle de ville en transition) <https://www.youtube.com/watch?v=QbOe0Q-Lg4k&feature=youtu.be>
- 2. LES VILLES EN TRANSITION (DOMINIQUE GAUZIN-MÜLLER) <https://www.youtube.com/watch?v=1Ltdx25h7QA>
+ 2. Les villes en transition (Dominique Gauzin-Müller) :  <https://www.youtube.com/watch?v=1Ltdx25h7QA>
  3. Le Bec Helloin (Permaculture) <https://www.youtube.com/watch?v=HfNYyNNlBfc>
  4. Stockage d'énergie low tech -1- <https://www.youtube.com/watch?v=N2u6EDwumdQ>
  5. Stockage d'énergie low tech -2- <https://www.youtube.com/watch?v=F2Qy3hl7O5k>
