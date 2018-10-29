@@ -5,28 +5,29 @@ STOCKAGE D'ÉNERGIE "LOW-TECH"
 LIENS :
 ===
 
-## Principes
+### Principes
 1. <http://www.cea.fr/comprendre/Pages/energies/renouvelables/essentiel-sur-stockage-stationnaire-energie.aspx>
 
-## Applications
+### Applications
 1. <https://jancovici.com/transition-energetique/renouvelables/est-ce-facile-de-stocker-lenergie/>
 2. <http://www.smartgrids-cre.fr/index.php?p=stockage-technologies>
 3. <https://www.enea-consulting.com/wp-content/uploads/2015/05/ENEA-Consulting-Le-Stockage-dEnergie1.pdf>
 
-## Vulgarisation
+### Vulgarisation
 1. <https://www.connaissancedesenergies.org/fiche-pedagogique/stockage-de-l-energie>
 2. <https://s3-eu-west-1.amazonaws.com/academie-technologies-staging/academie-technologies-siteweb/fileadmin/templates/PDF/10_questions/10QuestionsJDhers.pdf>
 
-## Introduction (Niveau école/collège)
+### Introduction (Niveau école/collège)
 1. <http://www.lycee-ferry-versailles.fr/si-new/2_4_stockage/cours_stockage_energie_v5.pdf>
 2. <http://cm1cm2.ceyreste.free.fr/formes.html>
 
-## Tutoriels
+### Tutoriels
 Les tutos de Low tech lab (en français) : <http://lowtechlab.org/wiki/Explore?page=8>
 
-## Dans la presse
+### Dans la presse
 1. Les échos ("Les nouvelles pistes") <https://www.lesechos.fr/09/02/2016/LesEchos/22125-043-ECH_stockage-d-electricite---les-nouvelles-pistes.htm>
 2. Production d'hydrogène combinée à l'usage de batteries (T.U Delft) <https://www.tudelft.nl/en/2016/tu-delft/new-tu-delft-battolyser-technology-combines-electricity-storage-and-hydrogen-production-in-a-single-system-enabling-electricity-to-be-stored-efficiently-and-affordably/>
+
 
 ## I) MÉTHODES DE STOCKAGE D'ÉNERGIE AUXQUELS RÉFÈRENT CES LIENS
 
