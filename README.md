@@ -28,6 +28,9 @@ Les tutos de Low tech lab (en français) : <http://lowtechlab.org/wiki/Explore?p
 1. Les échos ("Les nouvelles pistes") <https://www.lesechos.fr/09/02/2016/LesEchos/22125-043-ECH_stockage-d-electricite---les-nouvelles-pistes.htm>
 2. Production d'hydrogène combinée à l'usage de batteries (T.U Delft) <https://www.tudelft.nl/en/2016/tu-delft/new-tu-delft-battolyser-technology-combines-electricity-storage-and-hydrogen-production-in-a-single-system-enabling-electricity-to-be-stored-efficiently-and-affordably/>
 
+### Wikipedia
+1. Wikipedia : List of energy storageprojects <https://en.wikipedia.org/wiki/List_of_energy_storage_projects>
+
 
 MÉTHODES DE STOCKAGE D'ÉNERGIE
 ===
