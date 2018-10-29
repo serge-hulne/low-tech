@@ -29,7 +29,9 @@ Les tutos de Low tech lab (en français) : <http://lowtechlab.org/wiki/Explore?p
 2. Production d'hydrogène combinée à l'usage de batteries (T.U Delft) <https://www.tudelft.nl/en/2016/tu-delft/new-tu-delft-battolyser-technology-combines-electricity-storage-and-hydrogen-production-in-a-single-system-enabling-electricity-to-be-stored-efficiently-and-affordably/>
 
 
-## I) MÉTHODES DE STOCKAGE D'ÉNERGIE AUXQUELS RÉFÈRENT CES LIENS
+MÉTHODES DE STOCKAGE D'ÉNERGIE
+===
+### II) Stockage mécanique
 
 1. ÉNERGIE POTENTIELLE
   - UTILISER LA GRAVITÉ.
@@ -37,16 +39,18 @@ Les tutos de Low tech lab (en français) : <http://lowtechlab.org/wiki/Explore?p
 2. ÉNERGIE CINÉTIQUE:
   - EXEMPLE GYROSCOPIQUE (VOLANT D'INERTIE)
 
-## II) STOCKAGE SOUS FORME D'HYDROGÈNE
+### II) Stokage sous forme d'hydrogène
 1. CONVERSION DE L’ÉLECTRICITÉ EN HYDROGÈNE (ÉLECTROLYSE).
 
-## III) STOCKAGE SOUS FORME D'AIR COMPRIMÉ
+### III) Stokage sous forme d'air comprimé
 
-## IV) STOCKAGE SOUS FORME DE CHALEUR
+### IV) Stokage sous forme de chaleur.
 
 
 
-## VIDÉOS ILLUSTRATIVES:
+
+VIDÉOS ILLUSTRATIVES:
+===
  1. Ungersheim (Modèle de ville en transition) <https://www.youtube.com/watch?v=QbOe0Q-Lg4k&feature=youtu.be>
  2. Les villes en transition (Dominique Gauzin-Müller) :  <https://www.youtube.com/watch?v=1Ltdx25h7QA>
  3. Le Bec Helloin (Permaculture) <https://www.youtube.com/watch?v=HfNYyNNlBfc>
@@ -64,7 +68,8 @@ Les tutos de Low tech lab (en français) : <http://lowtechlab.org/wiki/Explore?p
  15. Stockage d'énergie par air comprimé. <https://www.youtube.com/watch?v=i7F4wbEf1z8&feature=youtu.be>
 
 
-## PROJETS APPARENTÉS:
+PROJETS APPARENTÉS
+===
 1. <http://www.institutmomentum.org/>
 2. <https://www.lowtechmagazine.com/>
 3.  <https://jancovici.com/transition-energetique/renouvelables/est-ce-facile-de-stocker-lenergie/>
@@ -74,7 +79,8 @@ Les tutos de Low tech lab (en français) : <http://lowtechlab.org/wiki/Explore?p
 7. <http://lowtechlab.org/wiki/Accueil#>
 
 
-## MOTS-CLÉS:
-- PERMACULTURE, EAU,  ECOLOGIE, BIO, AGRICULTURE BIOLOGIQUE, ELECTRICITÉ, ENERGIE, PRODUCTION, STOCKAGE, APRÈS-PÉTROLE, POST-INDUSTRIEL, COLLAPSE, COLLAPSOLOGIE, EFFONDREMENT, TRANSITION, TRANSTION ÉNERGÉTIQUE, TRANSITION ECOLOGIQUE, VILLES EN TRANSITON, RENOUVELABLE, SOUTENABLE, DURABLE, PIC PÉTROLE, PIC MÉTAUX, ÉNERGIE SOLAIRE, ÉNERGIE ÉOLIENNE, ÉNERGIE HYDRAULIQUE, ÉNERGIE GÉOTHERMIQUE.
+MOTS-CLÉS
+===
+- PERMACULTURE, EAU,  ECOLOGIE, BIO, AGRICULTURE BIOLOGIQUE, ELECTRICITÉ, ENERGIE, PRODUCTION, STOCKAGE, APRÈS-PÉTROLE, POST-INDUSTRIEL, COLLAPSE, COLLAPSOLOGIE, EFFONDREMENT, TRANSITION, TRANSTION ÉNERGÉTIQUE, TRANSITION ÉCOLOGIQUE, VILLES EN TRANSITON, RENOUVELABLE, SOUTENABLE, DURABLE, PIC PÉTROLE, PIC MÉTAUX, ÉNERGIE SOLAIRE, ÉNERGIE ÉOLIENNE, ÉNERGIE HYDRAULIQUE, ÉNERGIE GÉOTHERMIQUE.
 
 [test] <https://serge-hulne.github.io/low-tech/test.html>
