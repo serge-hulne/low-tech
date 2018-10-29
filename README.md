@@ -2,7 +2,7 @@ STOCKAGE D'ÉNERGIE "LOW-TECH"
 ===
 
 
-LIENS :
+LIENS
 ===
 
 ### Principes
@@ -52,7 +52,7 @@ MÉTHODES DE STOCKAGE D'ÉNERGIE
 
 
 
-VIDÉOS ILLUSTRATIVES:
+VIDÉOS ILLUSTRATIVES
 ===
  1. Ungersheim (Modèle de ville en transition) <https://www.youtube.com/watch?v=QbOe0Q-Lg4k&feature=youtu.be>
  2. Les villes en transition (Dominique Gauzin-Müller) :  <https://www.youtube.com/watch?v=1Ltdx25h7QA>
