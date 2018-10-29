@@ -56,6 +56,8 @@ Les tutos de Low tech lab (en français) : <http://lowtechlab.org/wiki/Explore?p
  12. Ville en transition, exemple britannique (Rob Hopkins) : <https://www.youtube.com/watch?v=w14gmW6nm1I>
  13. Low-tech tour France - Bande Annonce / Teaser <https://www.youtube.com/watch?v=FwHLbaQgcmw>
  14. Production d'hydrogène combinée à l'usage de batteries (T.U Delft) <https://www.tudelft.nl/en/2016/tu-delft/new-tu-delft-battolyser-technology-combines-electricity-storage-and-hydrogen-production-in-a-single-system-enabling-electricity-to-be-stored-efficiently-and-affordably/>
+ 15. Stockage d'énergie par volant d'inertie <https://www.youtube.com/watch?time_continue=10&v=PEcIlxUABOQ>
+ 16. Stockage d'énergie par air comprimé. <https://www.youtube.com/watch?v=i7F4wbEf1z8&feature=youtu.be>
 
 
 ## PROJETS APPARENTÉS:
