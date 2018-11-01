@@ -5,21 +5,25 @@ body {
 /* unvisited link */
 a:link {
   color: darkgreen;
+  text-decoration: none;
 }
 
 /* visited link */
 a:visited {
   color: darkgreen;
+  text-decoration: none;
 }
 
 /* mouse over link */
 a:hover {
   color: darkblue;
+  text-decoration: none;
 }
 
 /* selected link */
 a:active {
   color: blue;
+  text-decoration: none;
 }
 
 .pure-img-responsive {
