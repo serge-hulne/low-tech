@@ -7,6 +7,11 @@ body {
   height: auto;
 }
 
+svg {
+   width: 100vw;
+   height: 100vh;
+}
+
 /*
 Add transition to containers so they can push in and out.
 */
