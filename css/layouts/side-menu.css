@@ -150,7 +150,8 @@ appears on the left side of the page.
         This styles a link within a selected menu item `<li>`.
         */
 #menu .pure-menu-selected a {
-  color: #fff;
+  /* color: #fff; */
+  color: #ccc;
 }
 
 /*
