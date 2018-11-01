@@ -7,9 +7,13 @@ body {
   height: auto;
 }
 
+html, body{
+  height: 100%;
+}
 svg {
-   width: 100vw;
-   height: 100vh;
+  display: block;
+  height: 100%;
+  width: 100%;
 }
 
 /*
