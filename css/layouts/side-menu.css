@@ -151,7 +151,7 @@ appears on the left side of the page.
         */
 #menu .pure-menu-selected a {
   /* color: #fff; */
-  color: #ccc;
+  color: #lightgray;
 }
 
 /*
@@ -159,7 +159,7 @@ appears on the left side of the page.
     */
 #menu .pure-menu-heading {
   font-size: 110%;
-  color: #fff;
+  color: #lightgray;
   margin: 0;
 }
 
