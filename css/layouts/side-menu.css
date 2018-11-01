@@ -7,14 +7,6 @@ body {
   height: auto;
 }
 
-html, body{
-  height: 100%;
-}
-svg {
-  display: block;
-  height: 100%;
-  width: 100%;
-}
 
 /*
 Add transition to containers so they can push in and out.
