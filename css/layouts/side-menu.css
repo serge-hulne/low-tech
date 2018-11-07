@@ -1,3 +1,8 @@
+.small-fonts {
+  font-size: x-small;
+  text-align: center;
+}
+
 body {
   color: #777;
 }
