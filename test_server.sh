@@ -1,1 +1,2 @@
-python -m http.server
+#python -m http.server
+echo "livereload"
